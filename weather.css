@@ -34,13 +34,14 @@ header {
 .search-button {
   margin-left: 5px;
   font-size: 16px;
-  background-color:#400614;
+  background-color:#64081e;
   color: white;
   border: none;
   padding: 20px;
   line-height: 1;
   border-radius: 5px;
 }
+
 
 main {
   padding: 30px 0;
